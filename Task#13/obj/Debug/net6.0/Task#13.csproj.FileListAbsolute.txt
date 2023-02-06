@@ -1,0 +1,15 @@
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_2\Task#13\bin\Debug\net6.0\Task#13.exe
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_2\Task#13\bin\Debug\net6.0\Task#13.deps.json
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_2\Task#13\bin\Debug\net6.0\Task#13.runtimeconfig.json
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_2\Task#13\bin\Debug\net6.0\Task#13.dll
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_2\Task#13\bin\Debug\net6.0\Task#13.pdb
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_2\Task#13\obj\Debug\net6.0\Task#13.csproj.AssemblyReference.cache
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_2\Task#13\obj\Debug\net6.0\Task#13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_2\Task#13\obj\Debug\net6.0\Task#13.AssemblyInfoInputs.cache
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_2\Task#13\obj\Debug\net6.0\Task#13.AssemblyInfo.cs
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_2\Task#13\obj\Debug\net6.0\Task#13.csproj.CoreCompileInputs.cache
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_2\Task#13\obj\Debug\net6.0\Task#13.dll
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_2\Task#13\obj\Debug\net6.0\refint\Task#13.dll
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_2\Task#13\obj\Debug\net6.0\Task#13.pdb
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_2\Task#13\obj\Debug\net6.0\Task#13.genruntimeconfig.cache
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_2\Task#13\obj\Debug\net6.0\ref\Task#13.dll
